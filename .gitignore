@@ -1,7 +1,0 @@
-.venv/
-__pycache__/
-*.zip
-.DS_Store
-spark-warehouse/
-metastore_db/
-derby.log
